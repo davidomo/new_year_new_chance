@@ -4,7 +4,7 @@ Can you use historical data to find the optimal invsting time? This project look
 
  ### Configuration
 
-Data was pulled from the [Alpha Advantage](https://www.alphavantage.co/) free API to get daily stock data, including min/max and open/high. The data was cleaned and sent into CSV files that were later read and merged with Pandas. File (FinalScripts/LivePresentation/DoItLive.ipynb) displays the entire process from start to end, so long as you input your chosen stock ticker.
+Data was pulled from the [Alpha Advantage](https://www.alphavantage.co/) free API to get daily stock data, including min/max and open/high. The data was cleaned and sent into CSV files that were later read and merged with Pandas. File DoItLive.ipynb displays the entire process from start to end, so long as you input your chosen stock ticker.
 
  ### Data
 * [Alpha Advantage](https://www.alphavantage.co/)
